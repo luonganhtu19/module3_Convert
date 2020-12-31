@@ -1,0 +1,10 @@
+.app{
+    height: 230px; width: 230px;
+    margin: 0;
+    padding: 10px;
+    border: 1px #CCC solid;
+}
+.app input{
+    padding: 5px;
+    margin: 5px;
+}

@@ -14,7 +14,8 @@
   <body>
   <div class="app">
         <h2>Currency Converter</h2>
-        <form action="/converter" method="post">
+<%--        <form action="/converter" method="post">--%>
+            <form action="converter.jsp" method="post">
           <lable for="rate">Rate: </lable><br/>
           <input type="text" name="rate" id="rate" placeholder="RATE" value="22000"/><br/>
           <label for="usd" >USD: </label>
